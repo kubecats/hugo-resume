@@ -1,0 +1,23 @@
+baseURL: "http://localhost:1313/"
+languageCode: "en-us"
+title: "HS Resume"
+theme: "hugo-resume"
+
+# 테마 관련 추가 설정
+params:
+  firstName: "도쿄"
+  lastName: "까지"
+  address: "서울, 대한민국"
+  profileImage: "img/profile.jpg"  # static/img/ 폴더에 프로필 이미지 추가
+  email: "your.email@example.com"
+  description: "이력서 설명"
+  favicon: "images/favicon.ico"
+
+menu:
+  main:
+    - name: "About"
+      url: "/about/"
+      weight: 1
+    - name: "Projects"
+      url: "/projects/"
+      weight: 2

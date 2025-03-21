@@ -6,14 +6,21 @@
     <description>Recent content in 이현승 on HS Resume</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>http://localhost:1313/blog/force-ssl/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/force-ssl/</guid>
-      <description>&lt;p&gt;Intro&#xA;Doesn&amp;rsquo;t matter whether it&amp;rsquo;s a CakePHP app for a client, your own personal CMS, or any other web based application. If your passing around passwords or other sensitive info you should really implement SSL. SSL provides 2 main perks to your visitors.&lt;/p&gt;&#xA;&lt;p&gt;First it encrypts all communication that flies across the web. This prevents curious or devious billies from getting your secrets.&#xA;Secondly it ensures to the user that your server is in fact who it claims, and not a nasty &amp;lsquo;man in the middle&amp;quot; attack.&#xA;Finally it gives your site that touch of class&amp;hellip;. which of course a classy person like yourself relies on.&#xA;Once you implement SSL certificates on your server you&amp;rsquo;ll want to require secure connections using Apache&amp;rsquo;s rewrite module. Now I won&amp;rsquo;t dwell on the creation and signing of certificates, its already well documented.  If your just starting out though,heres a few links I recommend;&lt;/p&gt;</description>
+      <title>About Me</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h2 id=&#34;소개&#34;&gt;소개&lt;/h2&gt;&#xA;&lt;p&gt;안녕하세요, 저는 [이름]입니다. [직업/전문 분야]로 일하고 있으며, [주요 기술/관심사]에 관심이 있습니다.&lt;/p&gt;&#xA;&lt;h2 id=&#34;경력&#34;&gt;경력&lt;/h2&gt;&#xA;&lt;h3 id=&#34;회사명---직책&#34;&gt;[회사명] - [직책]&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;[기간]&lt;/em&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;주요 업무 1&lt;/li&gt;&#xA;&lt;li&gt;주요 업무 2&lt;/li&gt;&#xA;&lt;li&gt;주요 업무 3&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;이전-회사명---직책&#34;&gt;[이전 회사명] - [직책]&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;[기간]&lt;/em&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;주요 업무 1&lt;/li&gt;&#xA;&lt;li&gt;주요 업무 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;교육&#34;&gt;교육&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;[학위] in [전공], [학교명], [졸업년도]&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/about/about/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/about/</guid>
+      <description>&lt;h2 id=&#34;소개&#34;&gt;소개&lt;/h2&gt;&#xA;&lt;p&gt;안녕하세요, 저는 [이름]입니다. [직업/전문 분야]로 일하고 있으며, [주요 기술/관심사]에 관심이 있습니다.&lt;/p&gt;&#xA;&lt;h2 id=&#34;경력&#34;&gt;경력&lt;/h2&gt;&#xA;&lt;h3 id=&#34;회사명---직책&#34;&gt;[회사명] - [직책]&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;[기간]&lt;/em&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;주요 업무 1&lt;/li&gt;&#xA;&lt;li&gt;주요 업무 2&lt;/li&gt;&#xA;&lt;li&gt;주요 업무 3&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;이전-회사명---직책&#34;&gt;[이전 회사명] - [직책]&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;[기간]&lt;/em&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;주요 업무 1&lt;/li&gt;&#xA;&lt;li&gt;주요 업무 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;교육&#34;&gt;교육&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;[학위] in [전공], [학교명], [졸업년도]&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
